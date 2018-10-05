@@ -1,0 +1,1 @@
+# 2018_10_1_compusing_adj_noun
