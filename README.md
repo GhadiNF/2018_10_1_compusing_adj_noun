@@ -4,5 +4,5 @@ download GoogleNews-vectors-negative300.bin.gz from https://drive.google.com/fil
 
 python 3.6 using conda virtual
 keras 2.2.2
-gensin 3.4
+ginsem 3.4
 tensorflow 1.10
