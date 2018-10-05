@@ -1,0 +1,4 @@
+python 3.6 using conda virtual
+keras 2.2.2
+gensin 3.4
+tensorflow 1.10
